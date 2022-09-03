@@ -2,6 +2,30 @@ body {
     margin: 0px;
     font-family: 'Poppins', sans-serif;
 }
+.sec{
+    padding: 20px 0px;
+}
+.mid {
+    width: 90%;
+    margin: 0 auto;
+}
 h1{
-    font-size: 50px;
+    font-size: 40px;
+}
+h3{
+    font-size: 18px;
+}
+p{
+    font-size: 14px;
+}
+.half-part {
+    width: 45%;
+    float: left;
+    padding-left: 3%;
+}
+.half-part img {
+    width: 100%;
+}
+.name-highlighter {
+    color: orange;
 }
